@@ -1,4 +1,4 @@
-#Get query string values in JavaScript
+# Get query string values in JavaScript
 
 Usage:
 
